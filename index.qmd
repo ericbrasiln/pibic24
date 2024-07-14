@@ -1,0 +1,73 @@
+---
+title: '![](./logo.png)<br><br>Chamada para Seleção de Bolsista PIBIC - Edital PROPPG 02/2024'
+subtitle: "Projeto de Pesquisa: História em disputa: revisionismo histórico nos ecossistemas de desinformação do Telegram (2018 a 2024)"
+author: Eric Brasil
+date: 2024-07-13
+lang: pt-BR
+institute: "Instituto de Humanidades e Letras, Universidade da Integração da Lusofonia Afro-brasileira (UNILAB)"
+logo: logo.png
+#background-image: background.jpg # Adicione uma imagem de fundo
+footer: |
+  <a href="https://ericbrasil.com.br/">Eric Brasil</a> |
+  <a href="https://ericbrasil.com.br/contact/">Entre em contato</a> |
+description: "Chamada para Seleção de Bolsista PIBIC para o projeto de pesquisa 'História em disputa: revisionismo histórico nos ecossistemas de desinformação do Telegram (2018 a 2024)', coordenado pelo professor Eric Brasil. Bolsista ficará responsável pelo plano de trabalho 'Revisionismos Históricos no Telegram: o caso da Ditadura Militar' e receberá uma bolsa PIBIC/FAPESB."
+toc: true # Adicionar tabela de conteúdos se necessário
+toc-title: "Sumário"
+number-sections: true
+theme: 
+  light: default
+  dark: darkly
+highlight-style: tango
+---
+
+## Apresentação
+
+Convido estudantes de graduação do Instituto de Humanidades e Letras a se candidatarem à vaga de bolsista de iniciação científica para o projeto de pesquisa "**História em disputa: revisionismo histórico nos ecossistemas de desinformação do Telegram (2018 a 2024)**".
+
+O/a bolsista selecionado/a ficará responsável pelo plano de trabalho "**Revisionismos Históricos no Telegram: o caso da Ditadura Militar**".
+
+- [Clique aqui](./projeto.pdf) para acessar o projeto de pesquisa completo.
+- [Clique aqui](./plano.pdf) para acessar o plano de trabalho "Revisionismos Históricos no Telegram: o caso da Ditadura Militar".
+
+## Requisitos para a candidatura:
+1. Estar regularmente matriculado em um curso de graduação da UNILAB.
+2. Ter média geral superior a 50%.
+3. Não ter vínculo empregatício ou bolsa, e comprometer-se a dedicar 20 horas semanais às atividades da pesquisa.
+4. Possuir currículo Lattes completo e atualizado nos últimos 3 meses.
+5. Possuir conta no Banco do Brasil (exigência da FAPESB).
+6. Ter interesse na área de história ou ciências sociais, com destaque para os campos das humanidades digitais e história digital.
+
+## Documentos necessários que devem ser enviados por e-mail:
+1. Histórico escolar atualizado.
+2. Carta de interesse, explicitando a motivação e afinidades com a pesquisa proposta.
+3. Currículo Lattes completo e atualizado.
+
+## Etapas do processo seletivo:
+1. **Envio de documentos**: Os candidatos devem enviar o histórico escolar, a carta de interesse e o currículo Lattes para o e-mail do Prof. Eric Brasil ([profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br)) até o dia 16/07/2024 às 18h.
+2. **Entrevista online**: Os candidatos pré-selecionados serão convocados para uma entrevista online via *Zoom* prevista para o dia 17/07/2024, na parte da tarde.
+
+## Detalhes do Plano de Trabalho "Revisionismos Históricos no Telegram: o caso da Ditadura Militar"
+
+**Objetivos:**
+- Identificação e catalogação de mensagens, imagens e vídeos relacionados à Ditadura Militar no Telegram.
+- Análise de conteúdo para compreender as principais narrativas e linguagens utilizadas.
+- Contextualização das informações com a historiografia existente.
+- Avaliação do impacto dessas narrativas no público e sua disseminação.
+
+**Metodologia:**
+- Utilização de ferramentas avançadas para coleta de dados no Telegram.
+- Processamento de linguagem natural e análise de redes sociais.
+- Análise qualitativa do conteúdo e etnografia digital.
+- Integração de dados quantitativos e qualitativos.
+
+**Benefícios:**
+- Treinamento metodológico abrangente.
+- Envolvimento em ambiente interdisciplinar.
+- Desenvolvimento de habilidades técnicas e analíticas.
+- Acesso ao Laboratório de Humanidades Digitais da UFBA (LABHDUFBA), parceiro do projeto.
+
+Participe deste projeto inovador e contribua para o estudo e compreensão do uso da história nos ecossistemas de desinformação digital.
+
+Para mais informações, entre em contato: profericbrasil@unilab.edu.br
+
+![Card](./card.png)
